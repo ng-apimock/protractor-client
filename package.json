@@ -68,7 +68,7 @@
     "fs-extra": "10.0.0",
     "http-proxy-middleware": "^2.0.0",
     "husky": "6.0.0",
-    "jest": "27.0.4",
+    "jest": "27.0.6",
     "jest-matchers": "20.0.3",
     "lint-staged": "11.0.0",
     "protractor": "7.0.0",
